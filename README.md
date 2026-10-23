@@ -1,16 +1,26 @@
-## Hi there 👋
+# S-Data — software house dal 2007
 
-<!--
-**S-Data-IT/S-Data-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**S-Data** è una software house italiana B2B attiva dal 2007. Sviluppiamo software gestionale su misura, web app e integrazioni per PMI in tutta Italia.
 
-Here are some ideas to get you started:
+🌐 **Sito:** [www.s-data.it](https://www.s-data.it/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cosa facciamo
+
+- [Sviluppo software e gestionali su misura](https://www.s-data.it/sviluppo-software.html)
+- [Quanto costa un software gestionale su misura (guida 2026)](https://www.s-data.it/quanto-costa-software-gestionale-su-misura.html)
+- [Integrazioni ERP, CRM ed e-commerce](https://www.s-data.it/integrazioni-business.html)
+- [Automazione con AI e OCR documenti](https://www.s-data.it/automazione-ai.html)
+- [Fatturazione elettronica e conversione PDF/XML](https://www.s-data.it/fatturazione-elettronica.html)
+- [Web scraping](https://www.s-data.it/web-scraping.html) e [data entry](https://www.s-data.it/data-entry.html)
+
+## Prodotti
+
+- [ShowLot](https://www.showlotcars.com/) — piattaforma per concessionarie auto: gestione del parco veicoli online e raccolta contatti.
+
+## Tecnologie
+
+PHP · Laravel · JavaScript · TypeScript · Node.js · React · Vue.js · Python · C# / .NET · SQL Server · MySQL · PostgreSQL · REST API · Docker · AWS · Azure · WooCommerce · Magento
+
+---
+
+📩 [info@s-data.it](mailto:info@s-data.it) · [LinkedIn](https://www.linkedin.com/company/146675784/)
