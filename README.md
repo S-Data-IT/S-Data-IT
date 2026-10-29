@@ -6,12 +6,18 @@
 
 ## Cosa facciamo
 
+- [Gestionale su misura](https://www.s-data.it/gestionale-su-misura.html)
 - [Sviluppo software e gestionali su misura](https://www.s-data.it/sviluppo-software.html)
 - [Quanto costa un software gestionale su misura (guida 2026)](https://www.s-data.it/quanto-costa-software-gestionale-su-misura.html)
 - [Integrazioni ERP, CRM ed e-commerce](https://www.s-data.it/integrazioni-business.html)
 - [Automazione con AI e OCR documenti](https://www.s-data.it/automazione-ai.html)
 - [Fatturazione elettronica e conversione PDF/XML](https://www.s-data.it/fatturazione-elettronica.html)
 - [Web scraping](https://www.s-data.it/web-scraping.html) e [data entry](https://www.s-data.it/data-entry.html)
+
+## Risorse
+
+- [Osservatorio prezzi gestionale Italia](https://github.com/S-Data-IT/osservatorio-prezzi-gestionale-italia)
+- [Articoli tecnici su Dev.to](https://dev.to/s-data)
 
 ## Prodotti
 
